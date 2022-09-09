@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Windbreaker Print",
     "image": "https://m.media-amazon.com/images/I/81LYDKd4nGL._AC_UL320_.jpg",
     "color": "Black",
@@ -9,6 +10,7 @@
     "size": "Small"
   },
   {
+    "id": 2,
     "name": " Loma Vista",
     "image": "https://m.media-amazon.com/images/I/61J8I+5muKL._AC_UL320_.jpg",
     "color": "Black",
@@ -18,6 +20,7 @@
     "size": "Medium"
   },
   {
+    "id": 3,
     "name": "Windbreaker Jacket",
     "image": "https://m.media-amazon.com/images/I/91Ea9wV-j-L._AC_UL320_.jpg ",
     "color": "Black",
@@ -27,6 +30,7 @@
     "size": "Large"
   },
   {
+    "id": 4,
     "name": "DKNY ultra soft",
     "image": "https://m.media-amazon.com/images/I/71LUAE4ePpL._AC_UL320_.jpg",
     "color": "Pink",
@@ -36,8 +40,9 @@
     "size": "Small"
   },
   {
+    "id": 5,
     "name": "Striped Casual",
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/71kuhBJxJQL._AC_UX425_.jpg",
     "color": "Pink",
     "stocks": "In Stock",
     "price": 55,
@@ -45,6 +50,7 @@
     "size": "Medium"
   },
   {
+    "id": 6,
     "name": "Charles River",
     "image": "https://m.media-amazon.com/images/I/71mfBMGcccL._AC_UL320_.jpg",
     "color": "Pink",
@@ -54,6 +60,7 @@
     "size": "Large"
   },
   {
+    "id": 7,
     "name": "HFX Lightweight",
     "image": "https://m.media-amazon.com/images/I/81tBs4ul+uL._AC_UL320_.jpg",
     "color": "Yellow",
@@ -63,6 +70,7 @@
     "size": "Small"
   },
   {
+    "id": 8,
     "name": "Hilfiger Lightweight",
     "image": "https://m.media-amazon.com/images/I/81zjHdoRZEL._AC_UL320_.jpg",
     "color": "Yellow",
@@ -72,6 +80,7 @@
     "size": "Medium"
   },
   {
+    "id": 9,
     "name": "Retro Lightweight",
     "image": "https://m.media-amazon.com/images/I/71QA3fmnaTL._AC_UL320_.jpg",
     "color": "Yellow",
